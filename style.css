@@ -1,3 +1,24 @@
+body {
+  background-color: rgb(237, 233, 233);
+  font-family: Lucida Handwriting;
+  color: rgb(108, 106, 106);
+}
+
 h2 {
   color: salmon;
+  font-size: 80px;
+  margin-bottom: 40px;
 }
+
+.delete {
+  margin-right: 5px;
+}
+
+form {
+  margin-top: 20px;
+}
+
+.mark-complete {
+  accent-color: salmon;
+}
+
